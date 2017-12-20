@@ -4,10 +4,14 @@ import { Menu, Dropdown, Container } from 'semantic-ui-react';
 import styled from "styled-components";
 
 const DropdownMenuStyles = styled(Dropdown.Menu)`
-  min-width: 260px !important;
+  min-width: 260px !important;  
 `;
 
-const teams = [{name: 'ari', label: 'ARI'}, {name: 'atl', label: 'ATL'}, {name: 'bal', label: 'BAL'}, {name: 'buf', label: 'BUF'}];
+const DropdownItemStyles = styled(Dropdown.Item)`
+  display: inline !important;
+`
+
+const teams = [{name: 'ari', label: 'ARI'}, {name: 'atl', label: 'ATL'}, {name: 'bal', label: 'BAL'}, {name: 'buf', label: 'BUF'},  {name: 'ari', label: 'ARI'}, {name: 'atl', label: 'ATL'}, {name: 'bal', label: 'BAL'}, {name: 'buf', label: 'BUF'},  {name: 'ari', label: 'ARI'}, {name: 'atl', label: 'ATL'}, {name: 'bal', label: 'BAL'}, {name: 'buf', label: 'BUF'},  {name: 'ari', label: 'ARI'}, {name: 'atl', label: 'ATL'}, {name: 'bal', label: 'BAL'}, {name: 'buf', label: 'BUF'},  {name: 'ari', label: 'ARI'}, {name: 'atl', label: 'ATL'}, {name: 'bal', label: 'BAL'}, {name: 'buf', label: 'BUF'},  {name: 'ari', label: 'ARI'}, {name: 'atl', label: 'ATL'}, {name: 'bal', label: 'BAL'}, {name: 'buf', label: 'BUF'},  {name: 'ari', label: 'ARI'}, {name: 'atl', label: 'ATL'}, {name: 'bal', label: 'BAL'}, {name: 'buf', label: 'BUF'},  {name: 'ari', label: 'ARI'}, {name: 'atl', label: 'ATL'}, {name: 'bal', label: 'BAL'}, {name: 'buf', label: 'BUF'}];
 const positions = [{name: 'qb', label: 'QB'}, {name: 'rb', label: 'RB'}, {name: 'wr', label: 'WR'}, {name: 'te', label: 'TE'}];
 
 const Nav = () => (
@@ -30,7 +34,7 @@ const Nav = () => (
             <DropdownMenuStyles>
               {teams.map((team, idx) => {
                 return (
-                  <Dropdown.Item key={team.name}>{team.label}</Dropdown.Item>
+                  <DropdownItemStyles key={team.name}>{team.label}</DropdownItemStyles>
                 );
               })}            
             </DropdownMenuStyles>          

@@ -64830,7 +64830,8 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
-var _templateObject = _taggedTemplateLiteral(["\n  min-width: 260px !important;\n"], ["\n  min-width: 260px !important;\n"]);
+var _templateObject = _taggedTemplateLiteral(["\n  min-width: 260px !important;  \n"], ["\n  min-width: 260px !important;  \n"]),
+    _templateObject2 = _taggedTemplateLiteral(["\n  display: inline !important;\n"], ["\n  display: inline !important;\n"]);
 
 var _react = require("react");
 
@@ -64850,7 +64851,9 @@ function _taggedTemplateLiteral(strings, raw) { return Object.freeze(Object.defi
 
 var DropdownMenuStyles = (0, _styledComponents2.default)(_semanticUiReact.Dropdown.Menu)(_templateObject);
 
-var teams = [{ name: 'ari', label: 'ARI' }, { name: 'atl', label: 'ATL' }, { name: 'bal', label: 'BAL' }, { name: 'buf', label: 'BUF' }];
+var DropdownItemStyles = (0, _styledComponents2.default)(_semanticUiReact.Dropdown.Item)(_templateObject2);
+
+var teams = [{ name: 'ari', label: 'ARI' }, { name: 'atl', label: 'ATL' }, { name: 'bal', label: 'BAL' }, { name: 'buf', label: 'BUF' }, { name: 'ari', label: 'ARI' }, { name: 'atl', label: 'ATL' }, { name: 'bal', label: 'BAL' }, { name: 'buf', label: 'BUF' }, { name: 'ari', label: 'ARI' }, { name: 'atl', label: 'ATL' }, { name: 'bal', label: 'BAL' }, { name: 'buf', label: 'BUF' }, { name: 'ari', label: 'ARI' }, { name: 'atl', label: 'ATL' }, { name: 'bal', label: 'BAL' }, { name: 'buf', label: 'BUF' }, { name: 'ari', label: 'ARI' }, { name: 'atl', label: 'ATL' }, { name: 'bal', label: 'BAL' }, { name: 'buf', label: 'BUF' }, { name: 'ari', label: 'ARI' }, { name: 'atl', label: 'ATL' }, { name: 'bal', label: 'BAL' }, { name: 'buf', label: 'BUF' }, { name: 'ari', label: 'ARI' }, { name: 'atl', label: 'ATL' }, { name: 'bal', label: 'BAL' }, { name: 'buf', label: 'BUF' }, { name: 'ari', label: 'ARI' }, { name: 'atl', label: 'ATL' }, { name: 'bal', label: 'BAL' }, { name: 'buf', label: 'BUF' }];
 var positions = [{ name: 'qb', label: 'QB' }, { name: 'rb', label: 'RB' }, { name: 'wr', label: 'WR' }, { name: 'te', label: 'TE' }];
 
 var Nav = function Nav() {
@@ -64895,7 +64898,7 @@ var Nav = function Nav() {
               null,
               teams.map(function (team, idx) {
                 return _react2.default.createElement(
-                  _semanticUiReact.Dropdown.Item,
+                  DropdownItemStyles,
                   { key: team.name },
                   team.label
                 );
