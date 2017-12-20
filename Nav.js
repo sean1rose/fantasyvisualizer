@@ -1,6 +1,11 @@
 import React from 'react';
 import { NavLink }from 'react-router-dom';
 import { Menu, Dropdown, Container } from 'semantic-ui-react';
+import styled from "styled-components";
+
+const DropdownMenuStyles = styled(Dropdown.Menu)`
+  min-width: 260px !important;
+`;
 
 const teams = [{name: 'ari', label: 'ARI'}, {name: 'atl', label: 'ATL'}, {name: 'bal', label: 'BAL'}, {name: 'buf', label: 'BUF'}];
 const positions = [{name: 'qb', label: 'QB'}, {name: 'rb', label: 'RB'}, {name: 'wr', label: 'WR'}, {name: 'te', label: 'TE'}];
@@ -8,7 +13,7 @@ const positions = [{name: 'qb', label: 'QB'}, {name: 'rb', label: 'RB'}, {name: 
 const Nav = () => (
   <Menu fixed='top' inverted>
     <Container>
-      <Menu.Item as='a' header>
+      <Menu.Item  header>
         <NavLink activeClassName='active' to='/'>Fantasy Visualizer</NavLink>
       </Menu.Item>
       <Dropdown item simple text='Menu'>
@@ -22,13 +27,13 @@ const Nav = () => (
           <Dropdown.Item>
             <i className='dropdown icon'/>
             <span className='text'>Teams</span>
-            <Dropdown.Menu>
+            <DropdownMenuStyles>
               {teams.map((team, idx) => {
                 return (
                   <Dropdown.Item key={team.name}>{team.label}</Dropdown.Item>
                 );
               })}            
-            </Dropdown.Menu>          
+            </DropdownMenuStyles>          
           </Dropdown.Item>
 
           <Dropdown.Divider />
