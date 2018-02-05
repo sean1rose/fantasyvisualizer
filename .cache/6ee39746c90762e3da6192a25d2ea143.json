@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"../grid","loc":{"line":7,"column":20}}],"generated":{"js":"'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _grid = require('../grid');\n\nexports['default'] = _grid.Col;\nmodule.exports = exports['default'];"},"hash":"7ea9863b441a2bb0377eb7066ba79467"}

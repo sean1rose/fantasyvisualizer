@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./Switch","loc":{"line":3,"column":25}}],"generated":{"js":"'use strict';\n\nmodule.exports = require('./Switch');"},"hash":"b241b35b67abcc867f2373fe62a5efda"}

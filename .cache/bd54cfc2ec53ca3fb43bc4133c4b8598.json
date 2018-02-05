@@ -1,0 +1,1 @@
+{"dependencies":[],"generated":{"js":"'use strict';\n\nexports.__esModule = true;\nvar isClassComponent = function isClassComponent(Component) {\n  return Boolean(Component && Component.prototype && typeof Component.prototype.render === 'function');\n};\n\nexports.default = isClassComponent;"},"hash":"76bfd0ebfdfd9fef472433cc2f6a5121"}

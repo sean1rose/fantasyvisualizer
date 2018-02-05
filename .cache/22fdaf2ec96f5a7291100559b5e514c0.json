@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"../../style/index.less","loc":{"line":1,"column":7}},{"name":"./index.less","loc":{"line":2,"column":7}}],"generated":{"js":"\"use strict\";\n\nrequire(\"../../style/index.less\");\n\nrequire(\"./index.less\");"},"hash":"40f9b5e905622de978b10fdf12bf7165"}

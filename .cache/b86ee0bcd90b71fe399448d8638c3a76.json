@@ -1,0 +1,1 @@
+{"dependencies":[],"generated":{"js":"'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nvar FIELD_META_PROP = exports.FIELD_META_PROP = 'data-__meta';\nvar FIELD_DATA_PROP = exports.FIELD_DATA_PROP = 'data-__field';"},"hash":"85ecd9a14fcbc4e00a051bcc5ca7575b"}
