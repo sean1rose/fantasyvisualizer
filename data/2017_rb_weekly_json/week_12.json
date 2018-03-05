@@ -26,7 +26,10 @@
     "Tar RZ %Tm": 33.3,
     "Tar": 6,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11732"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11732",
+    "RZ Opp In20": 1,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Williams Jamaal": {
     "Tar%": 20,
@@ -55,7 +58,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 5,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11777"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11777",
+    "RZ Opp In20": 3,
+    "RZ Opp In10": 1,
+    "RZ Opp In5": 1
   },
   "Mixon Joe": {
     "Tar%": 11.5,
@@ -84,7 +90,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 3,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11707"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11707",
+    "RZ Opp In20": 7,
+    "RZ Opp In10": 3,
+    "RZ Opp In5": 1
   },
   "Coleman Tevin": {
     "Tar%": 0,
@@ -113,7 +122,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 0,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10081"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10081",
+    "RZ Opp In20": 3,
+    "RZ Opp In10": 1,
+    "RZ Opp In5": 1
   },
   "Bell Le'Veon": {
     "Tar%": 31.1,
@@ -142,7 +154,10 @@
     "Tar RZ %Tm": 20,
     "Tar": 14,
     "Tar RZ In10": 1,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=8617"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=8617",
+    "RZ Opp In20": 2,
+    "RZ Opp In10": 1,
+    "RZ Opp In5": 1
   },
   "Burkhead Rex": {
     "Tar%": 7.1,
@@ -171,7 +186,10 @@
     "Tar RZ %Tm": 25,
     "Tar": 2,
     "Tar RZ In10": 1,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=8765"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=8765",
+    "RZ Opp In20": 3,
+    "RZ Opp In10": 3,
+    "RZ Opp In5": 3
   },
   "Lynch Marshawn": {
     "Tar%": 12.5,
@@ -200,7 +218,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 3,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=5202"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=5202",
+    "RZ Opp In20": 4,
+    "RZ Opp In10": 2,
+    "RZ Opp In5": 2
   },
   "Murray Latavius": {
     "Tar%": 3.3,
@@ -229,7 +250,10 @@
     "Tar RZ %Tm": 25,
     "Tar": 1,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=8772"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=8772",
+    "RZ Opp In20": 9,
+    "RZ Opp In10": 3,
+    "RZ Opp In5": 2
   },
   "Gore Frank": {
     "Tar%": 18.5,
@@ -258,7 +282,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 5,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=4400"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=4400",
+    "RZ Opp In20": 5,
+    "RZ Opp In10": 1,
+    "RZ Opp In5": 0
   },
   "Perine Samaje": {
     "Tar%": 13.3,
@@ -287,7 +314,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 4,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11698"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11698",
+    "RZ Opp In20": 5,
+    "RZ Opp In10": 1,
+    "RZ Opp In5": 0
   },
   "Gurley Todd": {
     "Tar%": 16.3,
@@ -316,7 +346,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 7,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10147"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10147",
+    "RZ Opp In20": 4,
+    "RZ Opp In10": 1,
+    "RZ Opp In5": 0
   },
   "Barber Peyton": {
     "Tar%": 0,
@@ -345,7 +378,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 0,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10902"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10902",
+    "RZ Opp In20": 3,
+    "RZ Opp In10": 3,
+    "RZ Opp In5": 3
   },
   "Miller Lamar": {
     "Tar%": 8.1,
@@ -374,7 +410,10 @@
     "Tar RZ %Tm": 14.3,
     "Tar": 3,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=8008"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=8008",
+    "RZ Opp In20": 2,
+    "RZ Opp In10": 1,
+    "RZ Opp In5": 1
   },
   "Collins Alex": {
     "Tar%": 6.1,
@@ -403,7 +442,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 2,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10803"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10803",
+    "RZ Opp In20": 2,
+    "RZ Opp In10": 1,
+    "RZ Opp In5": 0
   },
   "Lewis Dion": {
     "Tar%": 7.1,
@@ -432,7 +474,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 2,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=7364"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=7364",
+    "RZ Opp In20": 4,
+    "RZ Opp In10": 3,
+    "RZ Opp In5": 1
   },
   "Smith Rod": {
     "Tar%": 8,
@@ -461,7 +506,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 2,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10630"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10630",
+    "RZ Opp In20": 2,
+    "RZ Opp In10": 2,
+    "RZ Opp In5": 1
   },
   "Drake Kenyan": {
     "Tar%": 12.1,
@@ -490,7 +538,10 @@
     "Tar RZ %Tm": 16.7,
     "Tar": 4,
     "Tar RZ In10": 1,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11002"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11002",
+    "RZ Opp In20": 1,
+    "RZ Opp In10": 1,
+    "RZ Opp In5": 0
   },
   "Crowell Isaiah": {
     "Tar%": 6.7,
@@ -519,7 +570,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 2,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=9535"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=9535",
+    "RZ Opp In20": 6,
+    "RZ Opp In10": 3,
+    "RZ Opp In5": 1
   },
   "Murray DeMarco": {
     "Tar%": 16.7,
@@ -548,7 +602,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 4,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=7359"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=7359",
+    "RZ Opp In20": 2,
+    "RZ Opp In10": 1,
+    "RZ Opp In5": 1
   },
   "Peterson Adrian": {
     "Tar%": 13.5,
@@ -577,7 +634,10 @@
     "Tar RZ %Tm": 100,
     "Tar": 5,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=5215"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=5215",
+    "RZ Opp In20": 1,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "McCaffrey Christian": {
     "Tar%": 17.9,
@@ -606,7 +666,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 5,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11690"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11690",
+    "RZ Opp In20": 1,
+    "RZ Opp In10": 1,
+    "RZ Opp In5": 0
   },
   "Blount LeGarrette": {
     "Tar%": 0,
@@ -635,7 +698,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 0,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=6482"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=6482",
+    "RZ Opp In20": 2,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Richard Jalen": {
     "Tar%": 8.3,
@@ -664,7 +730,10 @@
     "Tar RZ %Tm": 20,
     "Tar": 2,
     "Tar RZ In10": 1,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11522"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11522",
+    "RZ Opp In20": 2,
+    "RZ Opp In10": 1,
+    "RZ Opp In5": 0
   },
   "Henry Derrick": {
     "Tar%": 8.3,
@@ -693,7 +762,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 2,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10819"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10819",
+    "RZ Opp In20": 3,
+    "RZ Opp In10": 1,
+    "RZ Opp In5": 1
   },
   "Gordon Melvin": {
     "Tar%": 9.1,
@@ -722,7 +794,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 3,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10064"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10064",
+    "RZ Opp In20": 4,
+    "RZ Opp In10": 2,
+    "RZ Opp In5": 2
   },
   "Stewart Jonathan": {
     "Tar%": 0,
@@ -751,7 +826,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 0,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=5578"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=5578",
+    "RZ Opp In20": 3,
+    "RZ Opp In10": 3,
+    "RZ Opp In5": 3
   },
   "McCoy LeSean": {
     "Tar%": 13.8,
@@ -780,7 +858,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 4,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=5970"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=5970",
+    "RZ Opp In20": 1,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Allen Javorius": {
     "Tar%": 3,
@@ -809,7 +890,10 @@
     "Tar RZ %Tm": 33.3,
     "Tar": 1,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10066"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10066",
+    "RZ Opp In20": 2,
+    "RZ Opp In10": 1,
+    "RZ Opp In5": 0
   },
   "Ekeler Austin": {
     "Tar%": 9.1,
@@ -838,7 +922,10 @@
     "Tar RZ %Tm": 33.3,
     "Tar": 3,
     "Tar RZ In10": 1,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=12401"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=12401",
+    "RZ Opp In20": 6,
+    "RZ Opp In10": 3,
+    "RZ Opp In5": 0
   },
   "Hyde Carlos": {
     "Tar%": 34.2,
@@ -867,7 +954,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 13,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=9516"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=9516",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Johnson Duke": {
     "Tar%": 16.7,
@@ -896,7 +986,10 @@
     "Tar RZ %Tm": 33.3,
     "Tar": 5,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10084"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10084",
+    "RZ Opp In20": 2,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Lacy Eddie": {
     "Tar%": 9.1,
@@ -925,7 +1018,10 @@
     "Tar RZ %Tm": 33.3,
     "Tar": 3,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=8620"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=8620",
+    "RZ Opp In20": 3,
+    "RZ Opp In10": 1,
+    "RZ Opp In5": 1
   },
   "McKinnon Jerick": {
     "Tar%": 10,
@@ -954,7 +1050,10 @@
     "Tar RZ %Tm": 25,
     "Tar": 3,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=9529"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=9529",
+    "RZ Opp In20": 2,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Williams Damien": {
     "Tar%": 15.2,
@@ -983,7 +1082,10 @@
     "Tar RZ %Tm": 16.7,
     "Tar": 5,
     "Tar RZ In10": 1,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=9644"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=9644",
+    "RZ Opp In20": 1,
+    "RZ Opp In10": 1,
+    "RZ Opp In5": 0
   },
   "Yeldon T.J.": {
     "Tar%": 18.8,
@@ -1012,7 +1114,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 6,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10056"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10056",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Morris Alfred": {
     "Tar%": 4,
@@ -1041,7 +1146,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 1,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=8089"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=8089",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Cadet Travaris": {
     "Tar%": 10.3,
@@ -1070,7 +1178,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 3,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=8454"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=8454",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Washington DeAndre": {
     "Tar%": 12.5,
@@ -1099,7 +1210,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 3,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10893"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10893",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Powell Bilal": {
     "Tar%": 2.9,
@@ -1128,7 +1242,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 1,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=7367"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=7367",
+    "RZ Opp In20": 1,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "McKissic J.D.": {
     "Tar%": 21.2,
@@ -1157,7 +1274,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 7,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11312"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11312",
+    "RZ Opp In20": 2,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Woodhead Danny": {
     "Tar%": 12.1,
@@ -1186,7 +1306,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 4,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=5816"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=5816",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Abdullah Ameer": {
     "Tar%": 14.3,
@@ -1215,7 +1338,10 @@
     "Tar RZ %Tm": 16.7,
     "Tar": 5,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10126"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10126",
+    "RZ Opp In20": 2,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Gallman Wayne": {
     "Tar%": 7.7,
@@ -1244,7 +1370,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 2,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11761"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11761",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Fournette Leonard": {
     "Tar%": 9.4,
@@ -1273,7 +1402,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 3,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11687"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11687",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Darkwa Orleans": {
     "Tar%": 3.8,
@@ -1302,7 +1434,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 1,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=9551"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=9551",
+    "RZ Opp In20": 1,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Clement Corey": {
     "Tar%": 2.6,
@@ -1331,7 +1466,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 1,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11750"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11750",
+    "RZ Opp In20": 1,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Rodgers Jacquizz": {
     "Tar%": 4.5,
@@ -1360,7 +1498,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 2,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=7253"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=7253",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Ingram Mark": {
     "Tar%": 9.4,
@@ -1389,7 +1530,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 3,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=7244"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=7244",
+    "RZ Opp In20": 1,
+    "RZ Opp In10": 1,
+    "RZ Opp In5": 1
   },
   "McGuire Elijah": {
     "Tar%": 2.9,
@@ -1418,7 +1562,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 1,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11766"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11766",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Ajayi Jay": {
     "Tar%": 5.1,
@@ -1447,7 +1594,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 2,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10082"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10082",
+    "RZ Opp In20": 1,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Martin Doug": {
     "Tar%": 0,
@@ -1476,7 +1626,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 0,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=8058"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=8058",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Booker Devontae": {
     "Tar%": 5.9,
@@ -1505,7 +1658,10 @@
     "Tar RZ %Tm": 33.3,
     "Tar": 2,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10913"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10913",
+    "RZ Opp In20": 2,
+    "RZ Opp In10": 1,
+    "RZ Opp In5": 1
   },
   "Ward Terron": {
     "Tar%": 2.9,
@@ -1534,7 +1690,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 1,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10596"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10596",
+    "RZ Opp In20": 1,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Mack Marlon": {
     "Tar%": 7.4,
@@ -1563,7 +1722,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 2,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11765"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11765",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Riddick Theo": {
     "Tar%": 5.7,
@@ -1592,7 +1754,10 @@
     "Tar RZ %Tm": 16.7,
     "Tar": 2,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=8763"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=8763",
+    "RZ Opp In20": 1,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Marshall Byron": {
     "Tar%": 6.7,
@@ -1621,7 +1786,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 2,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11125"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11125",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Sims Charles": {
     "Tar%": 11.4,
@@ -1650,7 +1818,10 @@
     "Tar RZ %Tm": 9.1,
     "Tar": 5,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=9519"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=9519",
+    "RZ Opp In20": 1,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Bernard Giovani": {
     "Tar%": 3.8,
@@ -1679,7 +1850,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 1,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=8622"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=8622",
+    "RZ Opp In20": 1,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Vereen Shane": {
     "Tar%": 7.7,
@@ -1708,7 +1882,10 @@
     "Tar RZ %Tm": 50,
     "Tar": 2,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=7250"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=7250",
+    "RZ Opp In20": 1,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Blue Alfred": {
     "Tar%": 5.4,
@@ -1737,7 +1914,10 @@
     "Tar RZ %Tm": 14.3,
     "Tar": 2,
     "Tar RZ In10": 1,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=9360"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=9360",
+    "RZ Opp In20": 1,
+    "RZ Opp In10": 1,
+    "RZ Opp In5": 1
   },
   "Hunt Kareem": {
     "Tar%": 2.9,
@@ -1766,7 +1946,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 1,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11739"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11739",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Forte Matt": {
     "Tar%": 2.9,
@@ -1795,7 +1978,10 @@
     "Tar RZ %Tm": 16.7,
     "Tar": 1,
     "Tar RZ In10": 1,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=5662"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=5662",
+    "RZ Opp In20": 1,
+    "RZ Opp In10": 1,
+    "RZ Opp In5": 1
   },
   "Breida Matt": {
     "Tar%": 2.6,
@@ -1824,7 +2010,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 1,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=12289"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=12289",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Foster D.J.": {
     "Tar%": 10.8,
@@ -1853,7 +2042,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 4,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11004"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11004",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Howard Jordan": {
     "Tar%": 6.3,
@@ -1882,7 +2074,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 2,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10815"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10815",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Williams Kerwynn": {
     "Tar%": 2.7,
@@ -1911,7 +2106,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 1,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=8766"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=8766",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "White James": {
     "Tar%": 7.1,
@@ -1940,7 +2138,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 2,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=9524"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=9524",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Anderson C.J.": {
     "Tar%": 0,
@@ -1969,7 +2170,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 0,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=8931"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=8931",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Charles Jamaal": {
     "Tar%": 8.8,
@@ -1998,7 +2202,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 3,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=5663"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=5663",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Cunningham Benny": {
     "Tar%": 6.3,
@@ -2027,7 +2234,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 2,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=9062"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=9062",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "West Charcandrick": {
     "Tar%": 11.4,
@@ -2056,7 +2266,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 4,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=9891"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=9891",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Zenner Zach": {
     "Tar%": 0,
@@ -2085,7 +2298,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 0,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10188"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10188",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Sherman Anthony": {
     "Tar%": 2.9,
@@ -2114,7 +2330,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 1,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=7560"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=7560",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Williams Andre": {
     "Tar%": 0,
@@ -2143,7 +2362,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 0,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=9520"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=9520",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Ferguson Josh": {
     "Tar%": 0,
@@ -2172,7 +2394,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 0,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11005"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11005",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Grant Corey": {
     "Tar%": 0,
@@ -2201,7 +2426,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 0,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10196"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10196",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Perry Senorise": {
     "Tar%": 0,
@@ -2230,7 +2458,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 0,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=9872"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=9872",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Davis Justin": {
     "Tar%": 0,
@@ -2259,7 +2490,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 0,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11759"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11759",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Bolden Brandon": {
     "Tar%": 0,
@@ -2288,7 +2522,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 0,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=8077"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=8077",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Edmunds Trey": {
     "Tar%": 0,
@@ -2317,7 +2554,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 0,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=12433"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=12433",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Todman Jordan": {
     "Tar%": 0,
@@ -2346,7 +2586,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 0,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=7249"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=7249",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Mizzell Taquan": {
     "Tar%": 0,
@@ -2375,7 +2618,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 0,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=12231"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=12231",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Dayes Matt": {
     "Tar%": 0,
@@ -2404,7 +2650,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 0,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11760"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11760",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Whittaker Fozzy": {
     "Tar%": 0,
@@ -2433,7 +2682,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 0,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=8083"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=8083",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Artis-Payne Cameron": {
     "Tar%": 0,
@@ -2462,7 +2714,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 0,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10187"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10187",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Penny Elijhaa": {
     "Tar%": 0,
@@ -2491,7 +2746,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 0,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11297"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11297",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Magee Terrence": {
     "Tar%": 0,
@@ -2520,7 +2778,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 0,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10195"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10195",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Fluellen David": {
     "Tar%": 0,
@@ -2549,7 +2810,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 0,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=9534"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=9534",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Mostert Raheem": {
     "Tar%": 0,
@@ -2578,7 +2842,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 0,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10604"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10604",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Perkins Paul": {
     "Tar%": 0,
@@ -2607,7 +2874,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 0,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10804"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10804",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Barner Kenjon": {
     "Tar%": 2.6,
@@ -2636,7 +2906,10 @@
     "Tar RZ %Tm": 20,
     "Tar": 1,
     "Tar RZ In10": 1,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=8762"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=8762",
+    "RZ Opp In20": 1,
+    "RZ Opp In10": 1,
+    "RZ Opp In5": 0
   },
   "Rawls Thomas": {
     "Tar%": 0,
@@ -2665,7 +2938,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 0,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10185"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10185",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Toussaint Fitzgerald": {
     "Tar%": 0,
@@ -2694,7 +2970,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 0,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=9841"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=9841",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Conner James": {
     "Tar%": 0,
@@ -2723,7 +3002,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 0,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11691"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11691",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Cohen Tarik": {
     "Tar%": 6.3,
@@ -2752,7 +3034,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 2,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11758"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=11758",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Hunt Akeem": {
     "Tar%": 2.9,
@@ -2781,7 +3066,10 @@
     "Tar RZ %Tm": 0,
     "Tar": 1,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10197"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=10197",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   },
   "Ivory Chris": {
     "Tar%": 0,
@@ -2810,6 +3098,9 @@
     "Tar RZ %Tm": 0,
     "Tar": 0,
     "Tar RZ In10": 0,
-    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=6833"
+    "Col Player 2_link": "https://www.rotowire.com/football/player.htm?id=6833",
+    "RZ Opp In20": 0,
+    "RZ Opp In10": 0,
+    "RZ Opp In5": 0
   }
 }
