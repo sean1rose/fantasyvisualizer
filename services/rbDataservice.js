@@ -15,6 +15,7 @@ const week14 = require('../data/2017_rb_weekly_json/week_14.json');
 const week15 = require('../data/2017_rb_weekly_json/week_15.json');
 const week16 = require('../data/2017_rb_weekly_json/week_16.json');
 const week17 = require('../data/2017_rb_weekly_json/week_17.json');
+import teamDataService from './teamDataService';
 
 const weeks = {
   week1: week1,
@@ -45,7 +46,28 @@ module.exports = {
     for (var key in weeks) {
       if (weeks[key][name]) {
         weeks[key][name]["week"] = counter;
-        counter++;      
+        counter++;
+        // ATT - Red Zone opp
+          // RZ Opp In20
+          weeks[key][name]["Att - RZ Opp In20"] = (weeks[key][name]["Att"] - weeks[key][name]["RZ Opp In20"]);
+          // RZ Opp In5
+          weeks[key][name]["Att - RZ Opp In5"] = (weeks[key][name]["Att"] - weeks[key][name]["RZ Opp In5"]);
+        // RZ Opp total - Specific rz (5, 10)
+          // RZ Opp In5
+          weeks[key][name]["RZ Opp In20 - RZ Opp In5"] = (weeks[key][name]["RZ Opp In20"] - weeks[key][name]["RZ Opp In5"]);
+          // RZ Opp In10
+          weeks[key][name]["RZ Opp In20 - RZ Opp In10"] = (weeks[key][name]["RZ Opp In20"] - weeks[key][name]["RZ Opp In10"]);
+        // team touches, att, rec
+        let teamName;
+        // TODO: need teamDataService object "name" property to match rbDataService "Col Team"
+        if (weeks[key][name]["Col Team"] == "KC") {
+          teamName = "Kansas City Chiefs";
+        }
+        console.log('----------> ', teamDataService.getTeamAllWeeks(teamName).obj[key]);
+          // Team total touches
+          weeks[key][name]["Team Touches"] = teamDataService.getTeamAllWeeks(teamName).obj[key]["Touches"];
+          // team total touches - player attempts
+          weeks[key][name]["Team Touches - Att"] = (weeks[key][name]["Team Touches"] - weeks[key][name]["Att"]);
       }
       rbDataObj[key] = weeks[key][name];
       rbDataArr.push(weeks[key][name]);

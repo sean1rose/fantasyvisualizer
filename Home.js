@@ -11,7 +11,14 @@ console.log('Kareem Hunt - ', rbDataService.getRbAllWeeks('Hunt Kareem'));
 console.log('KC Chiefs - ', teamDataService.getTeamAllWeeks('Kansas City Chiefs'));
 
 const kareem = rbDataService.getRbAllWeeks('Hunt Kareem').arr;
+const kc = teamDataService.getTeamAllWeeks('Kansas City Chiefs').arr;
 console.log('kareem - ', kareem);
+for (var i = 0; i < kareem.length; i++) {
+  if (kareem[i]){
+    console.log('a - ', kareem[i]["Att"]);
+    console.log('b - ', kareem[i]["RZ Opp In20"]);
+  }
+}
 class Home extends Component {
 
   render() {
@@ -24,13 +31,21 @@ class Home extends Component {
           </Button>
         </Link> */}
         <BarChart width={900} height={400} data={kareem} >
-          <XAxis dataKey="week"/>
+          <XAxis  dataKey="week"/>
           <YAxis />
           <CartesianGrid strokeDasharray="3 3"/>
           <Tooltip />
           <Legend />
-          {/* <Bar dataKey="Rz Opp In20" stackId="a" fill="#8884d8" /> */}
-          <Bar dataKey="Att" stackId="a" fill="#82ca9d" />
+          {/* RZ TOUCHES vs TOUCHES vs Team TOUCHES */}
+          <Bar name="RZ Opp w/in 20" dataKey="RZ Opp In20" stackId="a" fill="red" />
+          <Bar name="Attempts" dataKey="Att - RZ Opp In20" stackId="a" fill="#82ca9d" />
+          <Bar name="Team Touches" dataKey="Team Touches - Att" stackId="a" fill="gray" />
+
+          {/* SPECIFIC RZ TOUCHES vs RZ TOUCHES */}
+          {/* <Bar name="RZ Opp w/in 5" dataKey="RZ Opp In5" stackId="a" fill="red" />
+          <Bar name="RZ Opp" dataKey="RZ Opp In20 - RZ Opp In5" stackId="a" fill="#82ca9d" /> */}
+
+
           {/* <Bar datakey="Att" fill="#82ca9d" /> */}
           {/* <Bar stackId="a" /> */}
         </BarChart>

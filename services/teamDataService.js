@@ -43,9 +43,9 @@ module.exports = {
     let teamDataArr = [];
     let counter = 1;
     for (var key in weeks) {
-      console.log('weeks[key][name] - ', weeks[key][name]);
       if (weeks[key][name]) {
         weeks[key][name]["week"] = counter;
+        weeks[key][name]["Touches"] = (weeks[key][name]["Att"] + weeks[key][name]["Rec"]);
         counter++;      
       }
       teamDataObj[key] = weeks[key][name];
