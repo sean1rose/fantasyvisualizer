@@ -64,10 +64,19 @@ module.exports = {
           teamName = "Kansas City Chiefs";
         }
         console.log('----------> ', teamDataService.getTeamAllWeeks(teamName).obj[key]);
-          // Team total touches
-          weeks[key][name]["Team Touches"] = teamDataService.getTeamAllWeeks(teamName).obj[key]["Touches"];
-          // team total touches - player attempts
-          weeks[key][name]["Team Touches - Att"] = (weeks[key][name]["Team Touches"] - weeks[key][name]["Att"]);
+        // player touches (att + rec)
+        weeks[key][name]["Touches"] = weeks[key][name]["Att"] + weeks[key][name]["Rec"];
+        weeks[key][name]["Touches - RZ Opp In20"] = (weeks[key][name]["Touches"] - weeks[key][name]["RZ Opp In20"]);
+
+        // Team total touches
+        weeks[key][name]["Team Touches"] = teamDataService.getTeamAllWeeks(teamName).obj[key]["Touches"];
+        // team total touches - player attempts
+        weeks[key][name]["Team Touches - Att"] = (weeks[key][name]["Team Touches"] - weeks[key][name]["Att"]);
+        weeks[key][name]["Team Touches - Touches"] = (weeks[key][name]["Team Touches"] - weeks[key][name]["Touches"]);
+
+          // console.log('+++ ', (weeks[key][name]["Team Touches"] - weeks[key][name]["Att"]));
+          // console.log('--- ', (weeks[key][name]["Att"] - weeks[key][name]["RZ Opp In20"]));
+          // weeks[key][name]["Team Touches - Att - RZ Opp In20"] = (weeks[key][name]["Team Touches"] - weeks[key][name]["Att"] - weeks[key][name]["RZ Opp In20"]);
       }
       rbDataObj[key] = weeks[key][name];
       rbDataArr.push(weeks[key][name]);
