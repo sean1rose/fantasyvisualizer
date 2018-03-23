@@ -3,7 +3,7 @@ import _ from 'lodash';
 import { Link } from 'react-router-dom';
 import { Button , Responsive} from 'semantic-ui-react';
 import { ResponsiveHeatMap, Pie } from 'nivo';
-import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend }  from 'recharts';
+import { ComposedChart, BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, Line }  from 'recharts';
 
 import rbDataService from './services/rbDataservice';
 import teamDataService from './services/teamDataService';
@@ -15,11 +15,14 @@ const kc = teamDataService.getTeamAllWeeks('Kansas City Chiefs').arr;
 console.log('kareem - ', kareem);
 for (var i = 0; i < kareem.length; i++) {
   if (kareem[i]){
-    console.log('a - ', kareem[i]["Att"]);
-    console.log('b - ', kareem[i]["RZ Opp In20"]);
+    // console.log('a - ', kareem[i]["Att"]);
+    // console.log('b - ', kareem[i]["RZ Opp In20"]);
   }
 }
+const rb12 = rbDataService.getRb12AllWeeks();
+console.log('rb12 > ', rb12);
 
+// TODO: Change color combination
 class CustomTooltip extends Component {
   render() {
     const { active } = this.props;
@@ -29,8 +32,9 @@ class CustomTooltip extends Component {
       return (
         <div style={{backgroundColor: "rgb(255, 255, 255)", padding: "10px", border: "1px solid rgb(204, 204, 204)", whiteSpace: "nowrap", margin: "0px"}} className="custom-tooltip">
           <p className="label">{`Week ${label}`}</p>
-          <p style={{color: "#004d99"}} className="label">{`${payload[3].name} : ${(payload[3].value) + (payload[2].value) + (payload[1].value) + (payload[0].value)}`}</p>
-          <p style={{color: "#009999"}} className="label">{`${payload[2].name} : ${(payload[2].value) + (payload[1].value) + (payload[0].value)}`}</p>
+          <p style={{color: "#17AF84"}} className="label">{`${payload[4].name} : ${payload[4].value}`}</p>
+          <p style={{color: "#F2A541"}} className="label">{`${payload[3].name} : ${(payload[3].value) + (payload[2].value) + (payload[1].value) + (payload[0].value)}`}</p>
+          <p style={{color: "#51E5FF"}} className="label">{`${payload[2].name} : ${(payload[2].value) + (payload[1].value) + (payload[0].value)}`}</p>
           <p style={{color: "#990000"}} className="label">{`${payload[1].name} : ${(payload[1].value) + (payload[0].value)}`}</p>
           <p style={{color: "#ff0000"}} className="label">{`${payload[0].name} : ${payload[0].value}`}</p>
         </div>
@@ -52,28 +56,28 @@ class Home extends Component {
             Quarterbacks            
           </Button>
         </Link> */}
-        <BarChart width={900} height={400} data={kareem} >
-          <XAxis  dataKey="week"/>
-          <YAxis />
+        <ComposedChart width={900} height={400} data={kareem} >
+          <XAxis dataKey="week"/>
+          <YAxis yAxisId="left" orientation="left" />
+          <YAxis yAxisId="right" orientation="right" stroke="#17AF84"/>
           <CartesianGrid strokeDasharray="3 3"/>
           <Tooltip content={<CustomTooltip/>} />
           <Legend />
           {/* RZ TOUCHES vs TOUCHES vs Team TOUCHES */}
-          <Bar name="RZ Touches in 5" dataKey="RZ Opp In5" stackId="a" fill="#ff0000" />
-          <Bar name="RZ Touches in 20" dataKey="RZ Opp In20 - RZ Opp In5" stackId="a" fill="#990000" />
-          <Bar name="Touches" dataKey="Touches - RZ Opp In20" stackId="a" fill="#009999 " />
-          <Bar name="Team Touches" dataKey="Team Touches - Touches" stackId="a" fill="#004d99" />
-          {/* <Bar name="Att" dataKey="Att - RZ Opp In20" stackId="a" fill="#82ca9d" /> */}
-          {/* <Bar name="Team Touches" dataKey="Team Touches - Att" stackId="a" fill="rgb(136, 132, 216)" /> */}
+          <Bar yAxisId="left" name="RZ Touches in 5" dataKey="RZ Opp In5" stackId="a" fill="#ff0000" />
+          <Bar yAxisId="left" name="RZ Touches in 20" dataKey="RZ Opp In20 - RZ Opp In5" stackId="a" fill="#990000" />
+          <Bar yAxisId="left" name="Touches" dataKey="Touches - RZ Opp In20" stackId="a" fill="#51E5FF " />
+          <Bar yAxisId="left" name="Team Touches" dataKey="Team Touches - Touches" stackId="a" fill="#F2A541" />
+          <Line yAxisId="right" type='monotone' dataKey='Fantasy Pts' stroke="#17AF84"/>
 
-          {/* SPECIFIC RZ TOUCHES vs RZ TOUCHES */}
-          {/* <Bar name="RZ Opp w/in 5" dataKey="RZ Opp In5" stackId="a" fill="red" />
-          <Bar name="RZ Opp" dataKey="RZ Opp In20 - RZ Opp In5" stackId="a" fill="#82ca9d" /> */}
+          {/* <Bar yAxisId="left" name="RZ Touches in 5" dataKey="RZ Opp In5" stackId="a" fill="#ff0000" />
+          <Bar yAxisId="left" name="RZ Touches in 20" dataKey="RZ Opp In20 - RZ Opp In5" stackId="a" fill="#990000" />
+          <Bar yAxisId="left" name="Touches" dataKey="Touches - RZ Opp In20" stackId="a" fill="#51E5FF " />
+          <Bar yAxisId="left" name="Team Touches" dataKey="Team Touches - Touches" stackId="a" fill="#F2A541" />
+          <Line yAxisId="right" type='monotone' dataKey='Fantasy Pts' stroke="#17AF84"/> */}
+          
 
-
-          {/* <Bar datakey="Att" fill="#82ca9d" /> */}
-          {/* <Bar stackId="a" /> */}
-        </BarChart>
+        </ComposedChart>
 
 
       </div>

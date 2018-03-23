@@ -38,7 +38,7 @@ const weeks = {
 
 module.exports = {
   getTeamAllWeeks: (name) => {
-    console.log('name - ', name);
+    // console.log('name - ', name);
     let teamDataObj = {};
     let teamDataArr = [];
     let counter = 1;
